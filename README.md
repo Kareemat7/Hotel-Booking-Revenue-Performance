@@ -1,6 +1,6 @@
 # Hotel-Booking-Revenue-Performance
 Hotel revenue analytics report for quarter 1 2016.
- The data i used was unstructured and was in csv format. I imported the tables into SQL server for analyzing and cleanzing.I joined the tables and i used datediff to calculate the date difference between the hotel booking startdate and enddate after which i multipled with the booking price to get the booking revenue.
+The data i used was unstructured and was in csv format. I imported the tables into SQL server for analyzing and cleanzing.I joined the tables and i used datediff to calculate the date difference between the hotel booking startdate and enddate after which i multipled with the booking price to get the booking revenue. The total roomm capacity of the hotel was 117,000, total number of guest was 96,000
 
 
 ## **DASHBOARD**
